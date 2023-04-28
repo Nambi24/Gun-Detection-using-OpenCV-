@@ -1,0 +1,5 @@
+cd "D:\VS Code\college project"
+cd "D:\VS Code\college project\ObjectDetection_FlaskDeployment-master"
+python yolo.py --image True --image_path "D:\VS Code\college project\21.jpg"
+python yolo.py --play_video True --video_path "D:\VS Code\college project\gun video 1.mp4"
+python yolo.py --webcam True 
